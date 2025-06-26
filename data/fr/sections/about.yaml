@@ -53,8 +53,6 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://linkedin.com/in/alize-guilbert"
 
-# You can show your verifiable certificates from https://www.credly.com.
-# You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
   name: SPLUNK
@@ -70,7 +68,6 @@ badges:
   name: Data Camp
   url: "https://www.datacamp.com/certificate/SQA0019013896442"
   badge: "/images/SQL-badge.png"
-
 
 - type: soft-skill-indicator
   name: SQL (Oracle | MySQL)
