@@ -1,11 +1,104 @@
-baseURL = 'https://cv.alize/io/'
-languageCode = 'en-us'
-title = 'CV Alizé GUILBERT'
-theme = 'toha'
-defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
+baseURL: https://cv.alize.io
+languageCode: fr
+title: "Alizé Guilbert"
+theme: "toha"
 
-[languages]
-  [languages.fr]
-    languageName = "Français"
-    weight = 1
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: false  # This keeps the site at https://cv.alize.io/, not /fr/
+
+languages:
+  fr:
+    languageName: Français
+    weight: 1
+
+# Allow raw HTML in markdown files
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+
+params:
+  background: /images/site/background.png
+
+  logo:
+    main: /images/site/favicon.png
+    inverted: /images/site/favicon.png
+    favicon: /images/site/favicon.png
+
+  gitRepo: https://github.com/cv.alize.io
+  gitBranch: main
+
+  topNavbar:
+    maxVisibleSections: 5
+
+  features:
+    darkMode:
+      enable: false
+      services:
+        darkreader:
+          defaultColorScheme: system
+          fixes:
+            invert: ['img[src$=".svg"]']
+          theme:
+            brightness: 100
+            contrast: 100
+            sepia: 0
+
+    portfolio:
+      enable: false
+    blog:
+      enable: false
+      shareButtons:
+        facebook: false
+        twitter: true
+        linkedin: true
+        reddit: true
+        whatsapp: false
+        email: true
+        mastodon: true
+
+    notes:
+      enable: false
+
+    comment:
+      enable: false
+      disqus:
+        shortName: toha-example-site
+
+    analytics:
+      enabled: true
+      services:
+        matomo:
+          instance: stats.alize.io
+          siteId: 12
+
+  enableTOC: false
+  enableTags: false
+
+  footer:
+    enable: true
+    template: footer.html
+    navigation:
+      enable: true
+    contactMe:
+      enable: true
+    credentials:
+      enable: false
+    newsletter:
+      enable: false
+    disclaimer:
+      enable: false
+
+disableSearch: false
