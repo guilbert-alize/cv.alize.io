@@ -1,14 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cv.alize/io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'CV Alizé GUILBERT'
 theme = 'toha'
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
 [languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
   [languages.fr]
     languageName = "Français"
-    weight = 2
+    weight = 1
