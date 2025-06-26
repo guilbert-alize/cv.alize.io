@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name:  Orange Business
+    url: "https://www.linkedin.com/company/orange-business"
+    location: Grenoble, France
+    # company overview
+    overview: Orange Business est la branche B2B du groupe Orange, leader européen des services numériques d’infrastructure, de connectivité et de communication pour les entreprises.
+  - designation: Stagiaire Consultante Splunk 
+    start: Avril 2023
+    end: Sept 2023
+    responsibilities:
+- Audit & amélioration d’une plateforme de démonstration pré-vente (graphiques défaillants, données obsolètes, problèmes d’accès) 
+- Création de dashboards clairs et opérationnels (volumétrie journalière Oracle, Salesforce, PFE analyse croisée de logs) 
+- Surveillance & alerting, mise en place de la supervision SSL avec alertes automatiques et notifications par e-mail ciblés. 
+
+- company:
+    name: Ostéopathe Amauguin Pili 
+    url: "https://www.instagram.com/pili.osteopathie/"
+    location: Remote
+  positions:
+  - designation: Développeuse Web 
+    start: Juillet 2022
+    end : Septembre 2022
+    responsibilities:
+- Création du site web (HTML/CSS/JS/MySQL)
+- Définition du cahier des charges
+- Création de contenu digital pour Instagram (1000
+comptes atteints)
+
