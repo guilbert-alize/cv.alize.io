@@ -5,25 +5,27 @@ section:
   enable: true
   weight: 4
   showOnNavbar: true
+
 degrees:
-- name: Master Système d’Information
-  icon: fa-university
-  timeframe: 2021-2023
-  institution:
-    name: IAE GRENOBLE
-    description: 
-- M2 | Data visualisation (Tableau et PowerBI) | Entrepôt de données | Python | Text mining | Microsoft Project
-- M1 | SAP S/4HANA | Cloud Computing - AWS AMAZON | Méthode agile - SCRUM
-  extracurricularActivities: Spécialisation Intelligence des Donnée
-    publications : 
-      - title : Mémoire sur e la maturation des utilities comme prérequis pour l’intégration de solution Big Data.
-      - title : Mémoire sur l'impact de 5G sur les IoT
-- name: Licence International Management
-  icon: fa-university
-  timeframe: 2020-2021
-  institution:
-    name: IAE LE HAVRE
-    description : Statistiques - SPAD | web marketing - IONOS | Google Console
-  extracurricularActivities: bilingue français - anglais
-   publications : 
-      - title : How worldwide companies using modern online technology will be able to make a transition between the "old world" and the "new world" to adapt during this time of crisis?
+  - name: Master Système d’Information
+    icon: fa-university
+    timeframe: 2021-2023
+    institution:
+      name: IAE GRENOBLE
+      description: >
+        M2 | Data visualisation (Tableau et PowerBI) | Entrepôt de données | Python | Text mining | Microsoft Project  
+        M1 | SAP S/4HANA | Cloud Computing - AWS AMAZON | Méthode agile - SCRUM
+    extracurricularActivities: Spécialisation Intelligence des Données
+    publications:
+      - title: Mémoire sur la maturation des utilities comme prérequis pour l’intégration de solution Big Data.
+      - title: Mémoire sur l'impact de la 5G sur les IoT
+
+  - name: Licence International Management
+    icon: fa-university
+    timeframe: 2020-2021
+    institution:
+      name: IAE LE HAVRE
+      description: Statistiques - SPAD | web marketing - IONOS | Google Console
+    extracurricularActivities: bilingue français - anglais
+    publications:
+      - title: How worldwide companies using modern online technology will be able to make a transition between the "old world" and the "new world" to adapt during this time of crisis?
