@@ -6,6 +6,14 @@ section:
   weight: 4
   showOnNavbar: true
 
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
 degrees:
   - name: Master Système d’Information
     icon: fa-university
@@ -15,7 +23,8 @@ degrees:
       description: >
         M2 | Data visualisation (Tableau et PowerBI) | Entrepôt de données | Python | Text mining | Microsoft Project  
         M1 | SAP S/4HANA | Cloud Computing - AWS AMAZON | Méthode agile - SCRUM
-    extracurricularActivities: Spécialisation Intelligence des Données
+    extracurricularActivities:
+      - Spécialisation Intelligence des Données
     publications:
       - title: Mémoire sur la maturation des utilities comme prérequis pour l’intégration de solution Big Data.
       - title: Mémoire sur l'impact de la 5G sur les IoT
@@ -26,6 +35,7 @@ degrees:
     institution:
       name: IAE LE HAVRE
       description: Statistiques - SPAD | web marketing - IONOS | Google Console
-    extracurricularActivities: bilingue français - anglais
+    extracurricularActivities:
+      - bilingue français - anglais
     publications:
       - title: How worldwide companies using modern online technology will be able to make a transition between the "old world" and the "new world" to adapt during this time of crisis?
