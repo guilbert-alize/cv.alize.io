@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'toha'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+  [languages.fr]
+    languageName = "Français"
+    weight = 2

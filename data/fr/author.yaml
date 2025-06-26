@@ -1,0 +1,21 @@
+# Quelques informations sur moi
+name : "Alizé GUILBERT"
+nickname : "Alizé"
+
+# Message
+greeting : "Hello, Je suis "
+image : "images/author/moi.jpg"
+
+ContactInfo :
+email : "guilbertalize@gmail.com"
+phone : "+33 (0)6 19 01 16 24"
+github : guilbert-alize
+linkedin : alize-guilbert
+
+#short introduction
+
+summary:
+        - Je suis une consultante BI Junior
+        - Je suis mobile en Bretagne et Pays de le Loire
+        - Je suis certifiée sur la technologie SPLUNK et SQL
+
