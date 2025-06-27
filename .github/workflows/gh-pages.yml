@@ -1,5 +1,8 @@
 name: github pages
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
@@ -21,14 +24,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Install npm dependencies
-        run: npm install
-
       - name: Build
         run: hugo --minify --enableGitInfo --baseURL "https://guilbert-alize.github.io/cv.alize.io/" --environment production --disableKinds=sitemap,taxonomy,term
 
@@ -36,6 +31,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
+          # Utilise ce token si tu veux utiliser le token GitHub Actions par défaut
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Ou utilise un PAT que tu auras créé et ajouté en secret sous PAT_TOKEN
+          # token: ${{ secrets.PAT_TOKEN }}
+
           publish_dir: ./public
           publish_branch: gh-pages
