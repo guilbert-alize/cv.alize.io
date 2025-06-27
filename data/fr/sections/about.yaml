@@ -29,15 +29,15 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
+# job
 designation: BI consultante 
 
 
-# a summary about you
+# a summary about me
 summary: 'Consultante BI junior au profil atypique alliant data, web et entrepreneuriat. Bilingue (FR/EN), autonome et adaptable, je conçois des solutions d’analyse et de visualisation avec Splunk, Power BI, SQL et Python. Formée à l’IAE Grenoble en Intelligence des Données, je poursuis ma montée en compétence via GitHub & DataCamp et projets personnels.'
 
-# your social links
-# give as many as you want. use font-awesome for the icons.
+# my social links
+
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
