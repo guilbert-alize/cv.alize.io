@@ -30,7 +30,7 @@ disableSearch = false
     weight = 2
 
 [params]
-  background = "/images/site/background.png"
+  background = "/images/site/background.jpg"
 
   [params.logo]
     main = "/images/site/favicon.png"
@@ -86,7 +86,7 @@ disableSearch = false
   enableTags = false
 
   [params.footer]
-    enable = true
+    enable = false
     template = "footer.html"
 
     [params.footer.navigation]
