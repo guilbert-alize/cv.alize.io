@@ -28,14 +28,11 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
+# designation
 designation: BI consultant
 
-# your resume. this file path should be relative to you "static" directory
-resume: ""
-
 # a summary about you
-summary: Junior BI Consultant, I am passionate about data, its analysis, and visualization. I enjoy understanding business challenges and responding to them by transforming data into insights using decision-making tools.
+summary: 'Junior BI Consultant, I am passionate about data, its analysis, and visualization. I enjoy understanding business challenges and responding to them by transforming data into insights using decision-making tools.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
