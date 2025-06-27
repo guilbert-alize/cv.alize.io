@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://cv.alize.io/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io#about</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io#skills</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io#experiences</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io#education</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io#projects</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/#about</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/#skills</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/#experiences</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/#education</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://cv.alize.io/fr/#projects</loc>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
