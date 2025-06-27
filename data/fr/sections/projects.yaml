@@ -18,7 +18,6 @@ buttons:
 # your projects
 projects:
   - name: Airbnb
-    logo: /images/sections/projects/ransomwatch.png
     role: Manager
     timeline: "Octobre 2023 à Mars 2024"
     url: "https://www.airbnb.fr/rooms/1089829153955079585"
@@ -26,7 +25,6 @@ projects:
     tags: ["Projet entrepreneurial", "Developpement"]
 
   - name: DataCamp
-    logo: /images/sections/projects/cyberowl.png
     role: Developpeuse
     timeline: "Mars 2024 - aujourd'hui"
     url: "https://www.datacamp.com/datalab/w/5dd973fd-1bb4-402d-aceb-f5fe5b46a0bc/edit"
@@ -34,7 +32,7 @@ projects:
     tags: ["Personnel", "SQL"]
 
   - name: Curriculum Vitae
-    logo: /images/author/moi.png
+    logo: /images/author/moi.jpg
     timeline: "Juin 2025 - aujourd'hui"
     repo: "https://github.com/guilbert-alize/cv.alize.io"
     summary: "Mon Curriculum Vitae en ligne généré par Github Action et hébergé par Github."
