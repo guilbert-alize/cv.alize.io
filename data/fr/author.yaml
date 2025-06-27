@@ -4,7 +4,7 @@ nickname : "Alizé"
 
 # Message
 greeting : "Hello, Je suis "
-image : "images/author/moi.jpg"
+image : "images/author/moi.png"
 
 ContactInfo :
 email : "guilbertalize@gmail.com"
