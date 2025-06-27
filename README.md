@@ -10,7 +10,7 @@ Curriculum Vitae d'Alizé GUILBERT, généré avec **Hugo** et hébergé via **G
 
 Ce dépôt contient la source pour générer et héberger mon CV personnel en ligne. Le site est construit avec **Hugo**, un générateur de sites statiques, en utilisant une version modifiée du thème **Toha**. Le déploiement est automatisé via **GitHub Actions**.
 
-🌍 Accéder au CV en ligne : [https://cv.alize.io]([https://cv.alize.io](https://guilbert-alize.github.io/cv.alize.io/))
+🌍 Accéder au CV en ligne : [https://cv.alize.io]((https://guilbert-alize.github.io/cv.alize.io/))
 
 ---
 
