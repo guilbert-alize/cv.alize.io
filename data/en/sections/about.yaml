@@ -16,7 +16,7 @@ linkedin : alize-guilbert
 
 summary:
         - I am a Junior BI Consultant
-        - I am mobile in Brittany and Pays de la Loire
+        - I am bilingual in English and French.
         - I am certified in SPLUNK and SQL technologies
 
 # section information
@@ -31,10 +31,9 @@ section:
 # designation
 designation: BI consultant
 
-# a summary about you
+# a summary about me
 summary: 'Junior BI Consultant, I am passionate about data, its analysis, and visualization. I enjoy understanding business challenges and responding to them by transforming data into insights using decision-making tools.'
-# your social links
-# give as many as you want. use font-awesome for the icons.
+# my   social links
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
