@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+# section information
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+  - name: Master’s Degree in Business Intelligence
+    icon: fa-university
+    timeframe: 2021-2023
+    institution:
+      name: IAE GRENOBLE
+      description: >
+        M2 | Data visualisation (Tableau et PowerBI) | Entrepôt de données | Python | Text mining | Microsoft Project  
+        M1 | SAP S/4HANA | Cloud Computing - AWS AMAZON | Méthode agile - SCRUM
+     details: Apprenticeship training in BI consulting, dashboard creation, SQL, and data visualization.
+    publications:
+      - title: Report on the maturation of utilities as a prerequisite for the integration of Big Data solutions.
+      - title: Report on the impact of 5G on IoT.
+
+  - name: Bachelor’s Degree in Digital Project Management
+    icon: fa-university
+    timeframe: 2020-2021
+    institution:
+      name: IAE LE HAVRE
+      description: Statistiques - SPAD | web marketing - IONOS | Google Console
+      details: Basics in digital project management, Agile methods, and technical project oversight.
+    publications:
+      - title: How worldwide companies using modern online technology will be able to make a transition between the "old world" and the "new world" to adapt during this time of crisis?
