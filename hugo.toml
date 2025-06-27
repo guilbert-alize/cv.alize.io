@@ -37,7 +37,7 @@ disableSearch = false
     inverted = "/images/site/favicon.png"
     favicon = "/images/site/favicon.png"
 
-  gitRepo = "https://github.com/cv.julien.io"
+  gitRepo = "https://github.com/cv.alize.io"
   gitBranch = "main"
 
   [params.topNavbar]
