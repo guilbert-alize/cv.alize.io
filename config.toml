@@ -30,8 +30,7 @@ disableSearch = false
     weight = 2
 
 [params]
-  background = "https://unsplash.com/photos/a-group-of-people-riding-kiteboards-on-top-of-a-wave-covered-beach-iZFTD9-UWQ0"
-
+  background = "/images/site/background.jpg"
   [params.logo]
     main = "/images/site/favicon.png"
     inverted = "/images/site/favicon.png"
