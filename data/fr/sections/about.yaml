@@ -7,18 +7,16 @@ greeting : "Hello, Je suis "
 image : "images/author/moi.jpg"
 
 ContactInfo :
-email : "guilbertalize@gmail.com"
-phone : "+33 (0)6 19 01 16 24"
-github : guilbert-alize
-linkedin : alize-guilbert
+  email : "guilbertalize@gmail.com"
+  phone : "+33 (0)6 19 01 16 24"
+  github : guilbert-alize
+  linkedin : alize-guilbert
 
-#short introduction
-
+# short introduction
 summary:
-        - Je suis une consultante BI Junior
-        - Je suis mobile en Bretagne et Pays de le Loire
-        - Je suis certifiée sur la technologie SPLUNK et SQL
-
+  - Je suis une consultante BI Junior
+  - Je suis mobile en Bretagne et Pays de le Loire
+  - Je suis certifiée sur la technologie SPLUNK et SQL
 
 # section information
 section:
@@ -30,54 +28,52 @@ section:
   template: sections/about.html
 
 # job
-designation: BI consultante 
-
+designation: BI consultante
 
 # a summary about me
-summary: 'Consultante BI junior au profil atypique alliant data, web et entrepreneuriat. Bilingue (FR/EN), autonome et adaptable, je conçois des solutions d’analyse et de visualisation avec Splunk, Power BI, SQL et Python. Formée à l’IAE Grenoble en Intelligence des Données, je poursuis ma montée en compétence via GitHub & DataCamp et projets personnels.'
+summary: "Consultante BI junior au profil atypique alliant data, web et entrepreneuriat. Bilingue (FR/EN), autonome et adaptable, je conçois des solutions d’analyse et de visualisation avec Splunk, Power BI, SQL et Python. Formée à l’IAE Grenoble en Intelligence des Données, je poursuis ma montée en compétence via GitHub & DataCamp et projets personnels."
 
 # my social links
-
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "guilbertalize@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "guilbertalize@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/guilbert-alize"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/guilbert-alize"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://linkedin.com/in/alize-guilbert"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://linkedin.com/in/alize-guilbert"
 
 badges:
-- type: certification
-  name: SPLUNK
-  url: ""
-  badge: "/images/splunk-badge.png"
+  - type: certification
+    name: SPLUNK
+    url: ""
+    badge: "images/splunk-badge.png"
 
-- type: certification
-  name: Git Hub
-  url: "https://www.credly.com/go/J9Lvx7st72mgI5LXpvsElw"
-  badge: "/images/github-foundations.png"
+  - type: certification
+    name: Git Hub
+    url: "https://www.credly.com/go/J9Lvx7st72mgI5LXpvsElw"
+    badge: "images/github-foundations.png"
 
-- type: certification
-  name: Data Camp
-  url: "https://www.datacamp.com/certificate/SQA0019013896442"
-  badge: "/images/SQL-badge.png"
+  - type: certification
+    name: Data Camp
+    url: "https://www.datacamp.com/certificate/SQA0019013896442"
+    badge: "images/SQL-badge.png"
 
-- type: soft-skill-indicator
-  name: SQL (Oracle | MySQL)
-  percentage: 75
-  color: "#00758F"
+  - type: soft-skill-indicator
+    name: SQL (Oracle | MySQL)
+    percentage: 75
+    color: "#00758F"
 
-- type: soft-skill-indicator
-  name: Python
-  percentage: 60
-  color: "#FFD43B"
+  - type: soft-skill-indicator
+    name: Python
+    percentage: 60
+    color: "#FFD43B"
 
-- type: soft-skill-indicator
-  name: Splunk
-  percentage: 60
-  color: "#FF4687"
+  - type: soft-skill-indicator
+    name: Splunk
+    percentage: 60
+    color: "#FF4687"
