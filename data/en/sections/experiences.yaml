@@ -14,13 +14,13 @@ experiences:
       location: Grenoble, France
       overview: Orange Business is the B2B branch of the Orange group, the European leader in digital infrastructure, connectivity, and communication services for businesses.
     positions:
-      - designation: Splunk Consultant Intern 
+      - designation: Splunk Consultant Intern
         start: April 2023
         end: Sept 2023
         responsibilities:
-          - Audited and improved a pre-sales demonstration platform: fixed faulty graphs, updated obsolete data, and resolved access issues.  
-          - Created clear and operational dashboards – including daily volume monitoring for Oracle, Salesforce, and cross-analysis of PFE logs.  
-          - Implemented monitoring and alerting – set up SSL supervision with automatic alerts and targeted email notifications.
+          - Audited and improved a pre-sales demonstration platform by fixing faulty graphs, updating obsolete data, and resolving access issues.
+          - Created clear and operational dashboards, including daily volume monitoring for Oracle, Salesforce, and cross-analysis of PFE logs.
+          - Implemented monitoring and alerting by setting up SSL supervision with automatic alerts and targeted email notifications.
 
   - company:
       name: Osteopath Amauguin Pili
@@ -31,6 +31,6 @@ experiences:
         start: July 2022
         end: September 2022
         responsibilities:
-          - Created the website (HTML/CSS/JS/MySQL)
-          - Defined the specifications document
-          - Created digital content for Instagram (reached 1000 accounts)
+          - Created the website using HTML, CSS, JavaScript, and MySQL.
+          - Defined the project specifications.
+          - Created digital content for Instagram, reaching 1000 accounts.
