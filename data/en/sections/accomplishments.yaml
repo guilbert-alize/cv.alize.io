@@ -1,0 +1,27 @@
+## section information
+section:
+  name: Certifications
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+
+# Your accomplishments
+accomplishments:
+  - name: "Splunk Core Certified User" 
+    timeline: "Juillet 2023"
+    organization:
+      name: SPLUNK
+      url: "https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-power-user.html"
+    courseOverview: >
+      A Splunk Core Certified Power User has a basic understanding of SPL searching and reporting commands and can create knowledge objects, use field aliases and calculated fields, create tags and event types, use macros, create workflow actions and data models, and normalize data with the Common Information Model in either the Splunk Enterprise or Splunk Cloud platforms. This certification demonstrates an individual's foundational competence of Splunk’s core software.
+    certificateURL: "https://www.credly.com/badges/aaf4fdbf-abd1-430a-8803-2ee816a557ec/"
+
+  - name: "SQL Associate"
+    timeline: "Mai 2025"
+    organization: 
+      name: Datacamp
+      url: "https://www.datacamp.com"
+    courseOverview: >
+      To obtain the Associate SQL Certification, this candidate had to demonstrate that they have the knowledge, skills, and abilities to successfully use SQL for data analysis.
+    certificateURL: "https://www.datacamp.com/certificate/SQA0019013896442"
