@@ -32,8 +32,6 @@ section:
 # your designation
 designation: BI consultante 
 
-# your resume. this file path should be relative to you "static" directory
-resume: ""
 
 # a summary about you
 summary: 'Consultante BI junior au profil atypique alliant data, web et entrepreneuriat. Bilingue (FR/EN), autonome et adaptable, je conçois des solutions d’analyse et de visualisation avec Splunk, Power BI, SQL et Python. Formée à l’IAE Grenoble en Intelligence des Données, je poursuis ma montée en compétence via GitHub & DataCamp et projets personnels.'
