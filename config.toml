@@ -1,4 +1,5 @@
-baseURL = "https://cv.alize.io/"
+baseURL = "https://guilbert-alize.github.io/cv.alize.io/"
+environment = "production"
 languageCode = "fr"
 title = "CV Alizé GUILBERT"
 theme = "toha"
