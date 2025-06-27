@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --enableGitInfo --disableKinds=sitemap,taxonomy,term
+        run: hugo --minify --enableGitInfo --baseURL "https://guilbert-alize.github.io/cv.alize.io/" --environment production --disableKinds=sitemap,taxonomy,term
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
