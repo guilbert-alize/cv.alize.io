@@ -30,7 +30,7 @@ disableSearch = false
     weight = 2
 
 [params]
-  background = "/images/site/background.jpg"
+  background = "/images/site/background.png"
 
   [params.logo]
     main = "/images/site/favicon.png"
