@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# My experiences
+experiences:
+  - company:
+      name: Orange Business
+      url: "https://www.linkedin.com/company/orange-business"
+      location: Grenoble, France
+      overview: Orange Business is the B2B branch of the Orange group, the European leader in digital infrastructure, connectivity, and communication services for businesses.
+    positions:
+      - designation: Splunk Consultant Intern 
+        start: April 2023
+        end: Sept 2023
+        responsibilities:
+          - Audited and improved a pre-sales demonstration platform: fixed faulty graphs, updated obsolete data, and resolved access issues.  
+          - Created clear and operational dashboards – including daily volume monitoring for Oracle, Salesforce, and cross-analysis of PFE logs.  
+          - Implemented monitoring and alerting – set up SSL supervision with automatic alerts and targeted email notifications.
+  - company:
+    name: Osteopath Amauguin Pili
+    url: "https://www.instagram.com/pili.osteopathie/"
+    location: Remote
+  positions:
+    - designation: Web Developer
+      start: July 2022
+      end: September 2022
+      responsibilities:
+        - Created the website (HTML/CSS/JS/MySQL)
+        - Defined the specifications document
+        - Created digital content for Instagram (reached 1000 accounts)
