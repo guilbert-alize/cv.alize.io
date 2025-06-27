@@ -1,177 +1,107 @@
-baseURL = 'https://cv.alize/io/'
-languageCode = 'en-us'
-title = 'CV Alizé GUILBERT'
-theme = 'toha'
+baseURL = "https://cv.alize.io/"
+languageCode = "fr"
+title = "CV Alizé GUILBERT"
+theme = "toha"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
-
-languages:
-  en:
-    languageName: English
-    weight: 1
-  fr:
-    languageName: Français
-    weight: 2
-
-    # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
-DefaultContentLanguage: fr
+enableEmoji = true
+disableSearch = false
 
 # Allow raw html in markdown file
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  tableOfContents:
-    startLevel: 2
-    endLevel: 6
-    ordered: false
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
 
-# At least HTML and JSON are required for the main HTML content and
-# client-side JavaScript search
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+    ordered = false
 
-# Enable global emoji support
-enableEmoji: true
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
-# Site parameters
-params:
-  # Background image of the landing page
-  background: /images/site/background.jpg
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
 
-  # Provide logos for your site. The inverted logo will be used in the initial
-  # transparent navbar and the main logo will be used in the non-transparent navbar.
-  logo:
-    main: /images/site/favicon.png
-    inverted: /images/site/favicon.png
-    favicon: /images/site/favicon.png
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
 
-  # GitHub repo of your site
-  gitRepo: https://github.com/cv.julien.io
-  # Default branch of your Git repo
-  gitBranch: main
+[params]
+  background = "/images/site/background.jpg"
 
-  # Configure the number of section title visible in the top navbar
-  topNavbar:
-    maxVisibleSections: 5
+  [params.logo]
+    main = "/images/site/favicon.png"
+    inverted = "/images/site/favicon.png"
+    favicon = "/images/site/favicon.png"
 
-  # Configure various features of this theme
-  features:
+  gitRepo = "https://github.com/cv.julien.io"
+  gitBranch = "main"
 
-    # Enable dark theme
-    darkMode:
-      enable: false
-      services:
-        darkreader:
-          defaultColorScheme: system # options are 'system', 'dark', 'light'
-          fixes:
-            invert: ['img[src$=".svg"]'] # inverts svg colors.
-          theme:
-            brightness: 100
-            contrast: 100
-            sepia: 0
+  [params.topNavbar]
+    maxVisibleSections = 5
 
-    # Enable and configure portfolio
-    portfolio:
-      enable: false
-    # Enable and configure blog posts
-    blog:
-      enable: false
-      # Share post on different social media
-      shareButtons:
-        facebook: false
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: false
-        email: true
-        # tumblr: true
-        # pocket: true
-        # diaspora: true
-        mastodon: true
+  [params.features]
+    [params.features.darkMode]
+      enable = false
+      [params.features.darkMode.services.darkreader]
+        defaultColorScheme = "system"
+        fixes = { invert = ["img[src$=\".svg\"]"] }
+        [params.features.darkMode.services.darkreader.theme]
+          brightness = 100
+          contrast = 100
+          sepia = 0
 
-    # Enable & configure "Notes" features
-    notes:
-      enable: false
+    [params.features.portfolio]
+      enable = false
 
-    # Enable comment feature. There, should be only one of them.
-    comment:
-      enable: false
-      disqus:
-        shortName: toha-example-site
-      # valine:
-      #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
-      #   appKey: pVrT3C85KGIuk27t07eh6bUC
-      #   avatar: retro
-      #   placeholder: Share your thought.
-      #   lang: en
-      #   recordIP: true
-      #   enableQQ: true
-      # utteranc:
-      #   repo: github.com/hugo-toha/hugo-toha.github.io
-      #   issueTerm: title
-      #   theme: github-light
-  
+    [params.features.blog]
+      enable = false
+      [params.features.blog.shareButtons]
+        facebook = false
+        twitter = true
+        linkedin = true
+        reddit = true
+        whatsapp = false
+        email = true
+        mastodon = true
 
-    # Enable Analytics
-    analytics:
-      enabled: true
-      services:
-        # cloudflare web analytics
-        # cloudflare:
-        #   token: "<token>"
-        # Google Analytics
-        #google:
-        #  id: G-H4LBG7NDFZ
-        # # CounterDev
-        # counterDev:
-        #   id: <your counterdev id>
-        # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
-        # # Matomo / Piwik
-        matomo:
-          instance: stats.mousqueton.io
-          siteId: 12 # Or any other number
+    [params.features.notes]
+      enable = false
 
-  # specify whether you want to show Table of Contents in reading page
-  enableTOC: false
+    [params.features.comment]
+      enable = false
+      [params.features.comment.disqus]
+        shortName = "toha-example-site"
 
-  # Show tags under the post title
-  enableTags: false
+    [params.features.analytics]
+      enabled = true
+      [params.features.analytics.services.matomo]
+        instance = "stats.mousqueton.io"
+        siteId = 12
 
-  # If you want to use different country flag for a language, specify them here.
-  # flagOverwrites:
-  # - languageCode: en
-  #   countryCode: us
+  enableTOC = false
+  enableTags = false
 
-  # Provide footer configuration.
-  footer:
-    enable: true
-    # You can provide your custom footer template using this option.
-    # Put your template in "layouts/partials" folder of your repo.
-    template: footer.html
-    # Show/hide navigation in the footer. Default is "true".
-    navigation:
-      enable: true
-    # Show/hide "Contact Me" section in the footer. Default is "true".
-    contactMe:
-      enable: true
-    # Show/hide credentials section in the footer. Default is "true".
-    credentials:
-      enable: false
+  [params.footer]
+    enable = true
+    template = "footer.html"
 
-    # Show/hide newsletter section in the footer. Default is "true".
-    # Currently, it supports "mailchimp".
-    newsletter:
-      enable: false
-      provider: mailchimp
-      mailchimpURL: 
+    [params.footer.navigation]
+      enable = true
 
-    # Show/hide disclaimer notice in the footer. Default is "false".
-    disclaimer:
-      enable: false
-disableSearch: false
+    [params.footer.contactMe]
+      enable = true
+
+    [params.footer.credentials]
+      enable = false
+
+    [params.footer.newsletter]
+      enable = false
+      provider = "mailchimp"
+      mailchimpURL = ""
+
+    [params.footer.disclaimer]
+      enable = false
