@@ -1,4 +1,83 @@
-# About section
-title: "About"
-text: |
-  Junior BI Consultant, I am passionate about data, its analysis, and visualization. I enjoy understanding business challenges and responding to them by transforming data into insights using decision-making tools.
+# Quelques informations sur moi
+name : "Alizé GUILBERT"
+nickname : "Alizé"
+
+# Message
+greeting : "Hello, I am  "
+image : "images/author/moi.jpg"
+
+ContactInfo :
+email : "guilbertalize@gmail.com"
+phone : "+33 (0)6 19 01 16 24"
+github : guilbert-alize
+linkedin : alize-guilbert
+
+#short introduction
+
+summary:
+        - I am a Junior BI Consultant
+        - I am mobile in Brittany and Pays de la Loire
+        - I am certified in SPLUNK and SQL technologies
+
+# section information
+section:
+  name: A propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: BI consultant
+
+# your resume. this file path should be relative to you "static" directory
+resume: ""
+
+# a summary about you
+summary: Junior BI Consultant, I am passionate about data, its analysis, and visualization. I enjoy understanding business challenges and responding to them by transforming data into insights using decision-making tools.
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "guilbertalize@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/guilbert-alize"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/alize-guilbert"
+
+badges:
+- type: certification
+  name: SPLUNK
+  url: ""
+  badge: "/images/splunk-badge.png"
+
+- type: certification
+  name: Git Hub
+  url: "https://www.credly.com/go/J9Lvx7st72mgI5LXpvsElw"
+  badge: "/images/github-foundations.png"
+
+- type: certification
+  name: Data Camp
+  url: "https://www.datacamp.com/certificate/SQA0019013896442"
+  badge: "/images/SQL-badge.png"
+
+- type: soft-skill-indicator
+  name: SQL (Oracle | MySQL)
+  percentage: 75
+  color: "#00758F"
+
+- type: soft-skill-indicator
+  name: Python
+  percentage: 60
+  color: "#FFD43B"
+
+- type: soft-skill-indicator
+  name: Splunk
+  percentage: 60
+  color: "#FF4687"
