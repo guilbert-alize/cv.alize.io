@@ -25,10 +25,12 @@ disableSearch = false
   [languages.en]
     languageName = "English"
     weight = 1
+    baseURL = "https://guilbert-alize.github.io/cv.alize.io/en/"
 
   [languages.fr]
     languageName = "Français"
     weight = 2
+    baseURL = "https://guilbert-alize.github.io/cv.alize.io/fr/"
 
 [params]
   background = "/images/site/background.jpg"
