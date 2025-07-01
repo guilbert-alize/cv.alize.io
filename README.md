@@ -31,11 +31,6 @@ Je tiens à remercier Julien pour ce contenu qui m’a beaucoup aidé dans la r�
 - Thème Toha modifié pour répondre à mes besoins  
 - Déploiement automatisé via GitHub Actions
 
----
-
-## Licence
-
-Ce projet est sous licence [Apache 2.0](https://github.com/guilbert-alize/cv.alize.io/blob/main/LICENSE).
 
 ---
 
