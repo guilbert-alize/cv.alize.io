@@ -16,7 +16,7 @@ Ce dépôt contient la source pour générer et héberger mon CV personnel en li
 
 ## Documentation & Crédits
 
-La création de ce CV s’est inspirée de l’excellent tutoriel disponible sur le blog de Julien, qui explique comment héberger un CV sur GitHub :
+La création de ce CV s’est inspirée du tutoriel disponible sur le blog de Julien, qui explique comment héberger un CV sur GitHub :
 
 - Article original : [https://julien.io/comment-mettre-en-ligne-son-cv-sur-github/](https://julien.io/comment-mettre-en-ligne-son-cv-sur-github/)
 
