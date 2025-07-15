@@ -37,4 +37,16 @@ projects:
     repo: "https://github.com/guilbert-alize/cv.alize.io"
     summary: "Mon Curriculum Vitae en ligne généré par Github Action et hébergé par Github."
     tags: ["Personnel"]
+    
+  - name: IBM-QRadar-SIEM-Foundation-Study-Notes
+    timeline: "Juillet 2025 - aujourd'hui"
+    repo: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes"
+    summary: "IBM QRadar SIEM Foundation Study Notes"
+    tags: ["SIEM"]
+    
+  - name: PassePartout
+    timeline: "Juillet 2025 - aujourd'hui"
+    repo: "https://github.com/guilbert-alize/PassePartout"
+    summary: "Générateur de mots de passe avec Python"
+    tags: ["Python"]
 
