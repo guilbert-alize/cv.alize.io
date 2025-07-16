@@ -73,10 +73,6 @@ badges:
   url: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes/"
   badge: "images/IBM-Qradar-SIEM-Foundation-badge.png"
 
-- type: soft-skill-indicator
-  name: SQL (Oracle | MySQL)
-  percentage: 75
-  color: "#00758F"
 
 - type: soft-skill-indicator
   name: Python
@@ -88,7 +84,3 @@ badges:
   percentage: 50
   color: "#276DC3"
 
-- type: soft-skill-indicator
-  name: Splunk
-  percentage: 60
-  color: "#FF4687"
