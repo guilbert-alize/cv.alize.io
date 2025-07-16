@@ -47,6 +47,10 @@ socialLinks:
     icon: "fab fa-linkedin"
     url: "https://linkedin.com/in/alize-guilbert"
 
+resourceLinks:
+  - title: "My CV"
+    url: "files/guilbert-alize-fr.pdf"
+
 badges:
   - type: certification
     name: SPLUNK
