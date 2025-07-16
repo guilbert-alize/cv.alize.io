@@ -79,6 +79,11 @@ badges:
   color: "#FFD43B"
 
 - type: soft-skill-indicator
+  name: R
+  percentage: 50
+  color: "#276DC3"
+
+- type: soft-skill-indicator
   name: Splunk
   percentage: 60
   color: "#FF4687"
