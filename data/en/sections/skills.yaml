@@ -36,7 +36,7 @@ skills:
   categories: ["BI tools"]
 
 - name: Power BI
-  logo: /images/sections/skills/PowerBI.svg
+  logo: /images/sections/skills/PowerBI.png
   summary: "Built dashboards and KPIs from structured datasets during training and freelance projects. Proficient with Power Query and DAX basics."
   categories: ["BI tools"]
 
@@ -64,12 +64,12 @@ skills:
   url: "https://git-scm.com/"
 
 - name: R
-  logo: /images/sections/skills/R.png
+  logo: /images/sections/skills/R.jpg
   summary: "Know basic R programming. Know how to transform and manipulate data with dplyr, conditional statements, loops, and vector functions."
   categories: ["basic", "language"]
 
 - name: SQL
-  logo: /images/sections/skills/sql.png
+  logo: /images/sections/skills/sql.jpg
   summary: "Experienced with querying and optimizing MySQL and Oracle databases. Used in BI dashboards and data pipeline logic."
   categories: ["basic", "language"]
 
