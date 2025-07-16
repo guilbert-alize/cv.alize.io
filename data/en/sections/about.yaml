@@ -51,22 +51,22 @@ badges:
 - type: certification
   name: SPLUNK
   url: ""
-  badge: "/images/splunk-badge.png"
+  badge: "images/splunk-badge.png"
 
 - type: certification
   name: Git Hub
   url: "https://www.credly.com/go/J9Lvx7st72mgI5LXpvsElw"
-  badge: "/images/github-foundations.png"
+  badge: "images/github-foundations.png"
 
 - type: certification
   name: Data Camp
   url: "https://www.datacamp.com/certificate/SQA0019013896442"
-  badge: "/images/SQL-badge.png"
+  badge: "images/SQL-badge.png"
 
 - type: certification
   name: IBM
   url: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes/"
-  badge: "/images/IBM-Qradar-SIEM-Foundation-badge.png"
+  badge: "images/IBM-Qradar-SIEM-Foundation-badge.png"
 
 - type: soft-skill-indicator
   name: SQL (Oracle | MySQL)
