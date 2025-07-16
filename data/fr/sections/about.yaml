@@ -64,9 +64,9 @@ badges:
     badge: "images/SQL-badge.png"
 
   - type: certification
-  name: IBM
-  url: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes/"
-  badge: "/images/IBM-Qradar-SIEM-Foundation-badge.png"
+    name: IBM
+    url: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes/"
+    badge: "/images/IBM-Qradar-SIEM-Foundation-badge.png"
 
   - type: soft-skill-indicator
     name: SQL (Oracle | MySQL)
