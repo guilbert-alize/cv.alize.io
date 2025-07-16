@@ -28,7 +28,7 @@ skills:
   logo: /images/sections/skills/talend.png
   summary: "Used for ELT pipeline creation during Master's at IAE Grenoble. Experience in mapping, transforming, and loading structured data."
   categories: ["ETL"]
-  url: "https://kubernetes.io/"
+
 
 - name: Tableau
   logo: /images/sections/skills/tableau.png
