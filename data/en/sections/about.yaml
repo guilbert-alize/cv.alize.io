@@ -63,6 +63,11 @@ badges:
   url: "https://www.datacamp.com/certificate/SQA0019013896442"
   badge: "/images/SQL-badge.png"
 
+- type: certification
+  name: IBM
+  url: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes/"
+  badge: "/images/IBM-Qradar-SIEM-Foundation-badge.png"
+
 - type: soft-skill-indicator
   name: SQL (Oracle | MySQL)
   percentage: 75
