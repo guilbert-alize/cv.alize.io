@@ -23,57 +23,57 @@ buttons:
 
 skills:
 - name: Talend
-  logo: images/sections/skills/talend.png
+  logo: images/talend.png
   summary: "Utilisé dans le cadre de mon Master à l’IAE Grenoble pour créer des flux ELT. Expérience en extraction, transformation et chargement de données structurées."
   categories: ["ETL"]
   url: "https://www.talend.com/fr/"
 
 - name: Tableau
-  logo: images/sections/skills/tableau.png
+  logo: images/tableau.png
   summary: "Création de tableaux de bord interactifs pour l’analyse de données dans le cadre de projets académiques et personnels."
   categories: ["BI tools"]
   url: "https://www.tableau.com/fr-fr"
 
 - name: Power BI
-  logo: images/sections/skills/PowerBI.png
+  logo: images/PowerBI.png
   summary: "Conception de dashboards et indicateurs à partir de données structurées. Bonne maîtrise de Power Query et des bases du langage DAX."
   categories: ["BI tools"]
   url: "https://powerbi.microsoft.com/fr-fr/"
 
 - name: Splunk
-  logo: images/sections/skills/splunk.png
+  logo: images/splunk.png
   summary: "Utilisé chez Orange Business pour l’analyse de logs ERP, la création de tableaux de bord et la mise en place d’alertes (surveillance SSL)."
   categories: ["BI tools", "ETL"]
   url: "https://www.splunk.com/"
 
 - name: Python
-  logo: images/sections/skills/Python.png
+  logo: images/Python.png
   summary: "Manipulation de données avec Pandas, NumPy et PySpark. Visualisation avec Seaborn et Matplotlib dans des projets analytiques."
   categories: ["basic", "language"]
 
 - name: SQL
-  logo: images/sections/skills/sql.jpg
+  logo: images/sql.jpg
   summary: "Requêtage et optimisation sur bases de données MySQL et Oracle. Utilisé dans le cadre de tableaux de bord et pipelines de données."
   categories: ["basic", "language"]
 
 - name: R
-  logo: images/sections/skills/R.jpg
+  logo: images/R.jpg
   summary: "Notions de base pour la manipulation de données et l’analyse statistique avec dplyr et ggplot2."
   categories: ["basic", "language"]
   url: "https://www.r-project.org/"
 
 - name: Git
-  logo: images/sections/skills/git.png
+  logo: images/git.png
   summary: "Utilisation régulière de Git et GitHub pour le suivi de versions dans mes projets personnels et académiques."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
 - name: Linux
-  logo: images/sections/skills/linux.png
+  logo: images/linux.png
   summary: "Connaissances de base en ligne de commande et navigation sous environnement Linux. Utilisation dans des projets data et web."
   categories: ["others"]
 
 - name: HTML/CSS/JS
-  logo: images/sections/skills/html-css-js.png
+  logo: images/html-css-js.png
   summary: "Développement d’un site web complet pour un client. Intégration front-end et base de données MySQL."
   categories: ["others"]
