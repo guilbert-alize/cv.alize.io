@@ -73,7 +73,7 @@ skills:
   summary: "Experienced with querying and optimizing MySQL and Oracle databases. Used in BI dashboards and data pipeline logic."
   categories: ["basic", "language"]
 
-  - name: HTML/CSS/JS
+- name: HTML/CSS/JS
   logo: /images/sections/skills/html-css-js.png
   summary: "Developed and deployed a responsive website for a client. Hands-on experience with front-end design and MySQL database integration."
   categories: ["others"]
