@@ -24,53 +24,53 @@ buttons:
 
 skills:
 - name: Talend
-  logo: images/sections/skills/talend.png
+  logo: images/talend.png
   summary: "Used for ELT pipeline creation during Master's at IAE Grenoble. Experience in mapping, transforming, and loading structured data."
   categories: ["ETL"]
 
 - name: Tableau
-  logo: images/sections/skills/tableau.png
+  logo: images/tableau.png
   summary: "Designed interactive dashboards for data analysis and visualization in academic and personal projects."
   categories: ["BI tools"]
 
 - name: Power BI
-  logo: images/sections/skills/PowerBI.png
+  logo: images/PowerBI.png
   summary: "Built dashboards and KPIs from structured datasets during training and freelance projects. Proficient with Power Query and DAX basics."
   categories: ["BI tools"]
 
 - name: Splunk
-  logo: images/sections/skills/splunk.png
+  logo: images/splunk.png
   summary: "Used in internship at Orange Business for log analysis, dashboard creation (ERP logs), and alert setup (SSL certificate monitoring)."
   categories: ["BI tools", "ETL"]
   url: "https://www.splunk.com/"
 
 - name: Python
-  logo: images/sections/skills/Python.png
+  logo: images/Python.png
   summary: "Capable to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis."
   categories: ["basic", "language"]
 
 - name: Linux
-  logo: images/sections/skills/linux.png
+  logo: images/linux.png
   summary: "Capable of writing basics bash/shell scripts."
   categories: ["others"]
 
 - name: Git
-  logo: images/sections/skills/git.png
+  logo: images/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
 - name: R
-  logo: images/sections/skills/R.jpg
+  logo: images/R.jpg
   summary: "Know basic R programming. Know how to transform and manipulate data with dplyr, conditional statements, loops, and vector functions."
   categories: ["basic", "language"]
 
 - name: SQL
-  logo: images/sections/skills/sql.jpg
+  logo: images/sql.jpg
   summary: "Experienced with querying and optimizing MySQL and Oracle databases. Used in BI dashboards and data pipeline logic."
   categories: ["basic", "language"]
 
 - name: HTML/CSS/JS
-  logo: images/sections/skills/html-css-js.png
+  logo: images/html-css-js.png
   summary: "Developed and deployed a responsive website for a client. Hands-on experience with front-end design and MySQL database integration."
   categories: ["others"]
