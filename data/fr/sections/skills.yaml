@@ -36,7 +36,7 @@ skills:
   url: "https://www.tableau.com/fr-fr"
 
 - name: Power BI
-  logo: /images/sections/skills/PowerBI.svg
+  logo: /images/sections/skills/PowerBI.png
   summary: "Conception de dashboards et indicateurs à partir de données structurées. Bonne maîtrise de Power Query et des bases du langage DAX."
   categories: ["BI tools"]
   url: "https://powerbi.microsoft.com/fr-fr/"
@@ -53,12 +53,12 @@ skills:
   categories: ["basic", "language"]
 
 - name: SQL
-  logo: /images/sections/skills/sql.png
+  logo: /images/sections/skills/sql.jpg
   summary: "Requêtage et optimisation sur bases de données MySQL et Oracle. Utilisé dans le cadre de tableaux de bord et pipelines de données."
   categories: ["basic", "language"]
 
 - name: R
-  logo: /images/sections/skills/R.png
+  logo: /images/sections/skills/R.jpg
   summary: "Notions de base pour la manipulation de données et l’analyse statistique avec dplyr et ggplot2."
   categories: ["basic", "language"]
   url: "https://www.r-project.org/"
