@@ -1,3 +1,10 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  
 skills:
   - name: Talend
     logo: images/talend.png
