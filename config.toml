@@ -34,6 +34,7 @@ disableSearch = false
 
 [params]
   background = "/images/site/background.jpg"
+  darkBackground= "/images/site/darkbackground.jpg"
   [params.logo]
     main = "/images/site/favicon.png"
     inverted = "/images/site/favicon.png"
