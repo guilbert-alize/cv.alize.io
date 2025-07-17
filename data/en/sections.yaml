@@ -1,0 +1,36 @@
+sections:
+  - section:
+      name: About
+      id: about
+      enable: true
+      weight: 1
+
+  - section:
+      name: Skills
+      id: skills
+      enable: true
+      weight: 2
+
+  - section:
+      name: Experience
+      id: experiences
+      enable: true
+      weight: 3
+
+  - section:
+      name: Education
+      id: educations
+      enable: true
+      weight: 4
+
+  - section:
+      name: Projects
+      id: projects
+      enable: true
+      weight: 5
+
+  - section:
+      name: Certifications
+      id: accomplishments
+      enable: true
+      weight: 6
