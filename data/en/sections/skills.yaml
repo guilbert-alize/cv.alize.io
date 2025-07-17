@@ -4,6 +4,22 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  filter: true
+
+  # filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Basic
+  filter: "basic"
+- name: Language
+  filter: "language"
+- name: BI
+  filter: "BI tools" 
+- name: ETL
+  filter: "ETL" 
+- name: Others
+  filter: "others"
   
 skills:
   - name: Talend
