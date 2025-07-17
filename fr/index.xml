@@ -206,4 +206,4 @@ home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
 ```
 [outputs]
 home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;]
-```&lt;/p></description></item></channel></rss>
+```&lt;/p></description></item><item><title/><link>https://guilbert-alize.github.io/cv.alize.io/fr/posts/starter-pack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://guilbert-alize.github.io/cv.alize.io/fr/posts/starter-pack/</guid><description/></item></channel></rss>
