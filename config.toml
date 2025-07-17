@@ -43,11 +43,11 @@ disableSearch = false
   gitBranch = "main"
 
   [params.topNavbar]
-    maxVisibleSections = 5
+    maxVisibleSections = 7
 
   [params.features]
     [params.features.darkMode]
-      enable = false
+      enable = true
       [params.features.darkMode.services.darkreader]
         defaultColorScheme = "system"
         fixes = { invert = ["img[src$=\".svg\"]"] }
@@ -79,9 +79,9 @@ disableSearch = false
         shortName = "toha-example-site"
 
     [params.features.analytics]
-      enabled = true
+      enabled = false
       [params.features.analytics.services.matomo]
-        instance = "stats.mousqueton.io"
+        instance = ""
         siteId = 12
 
   enableTOC = false
