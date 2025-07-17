@@ -1,0 +1,75 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+
+  # Boutons de filtrage
+buttons:
+  - name: Tous
+    filter: "all"
+  - name: Bases
+    filter: "basic"
+  - name: Langages
+    filter: "language"
+  - name: Outils BI
+    filter: "BI tools" 
+  - name: ETL
+    filter: "ETL" 
+  - name: Autres
+    filter: "others"
+  
+skills:
+  - name: Talend
+    logo: images/talend.png
+    summary: "Utilisé pour la création de pipelines ELT lors du Master à l'IAE Grenoble. Expérience en cartographie, transformation et chargement de données structurées."
+    categories: ["ETL"]
+
+  - name: Tableau
+    logo: images/tableau.png
+    summary: "Création de tableaux de bord interactifs pour l’analyse et la visualisation de données dans des projets académiques et personnels."
+    categories: ["BI tools"]
+
+  - name: Power BI
+    logo: images/PowerBI.png
+    summary: "Création de tableaux de bord et d’indicateurs à partir de jeux de données structurés durant des formations et projets freelance. Maîtrise de Power Query et des bases de DAX."
+    categories: ["BI tools"]
+
+  - name: Splunk
+    logo: images/splunk.png
+    summary: "Utilisé lors d’un stage chez Orange Business pour l’analyse de logs, la création de tableaux de bord (logs ERP) et la mise en place d’alertes (surveillance de certificats SSL)."
+    categories: ["BI tools", "ETL"]
+    url: "https://www.splunk.com/"
+
+  - name: Python
+    logo: images/python.png
+    summary: "Capable de manipuler des DataFrames, d’extraire, filtrer et transformer des ensembles de données réelles pour les analyser."
+    categories: ["basic", "language"]
+
+  - name: Linux
+    logo: images/linux.png
+    summary: "Capable d’écrire des scripts bash/shell simples."
+    categories: ["others"]
+
+  - name: Git
+    logo: images/git.png
+    summary: "Expérience du développement avec Git. Utilisation principale de GitHub, avec également de l’expérience sur GitLab."
+    categories: ["basic"]
+    url: "https://git-scm.com/"
+
+  - name: R
+    logo: images/R.jpg
+    summary: "Connaissances de base en R. Sait transformer et manipuler des données avec `dplyr`, utiliser des conditions, des boucles et des fonctions vectorielles."
+    categories: ["basic", "language"]
+
+  - name: SQL
+    logo: images/sql.jpg
+    summary: "Expérience en interrogation et optimisation de bases de données MySQL et Oracle. Utilisé dans les tableaux de bord BI et la logique de pipelines de données."
+    categories: ["basic", "language"]
+
+  - name: HTML/CSS/JS
+    logo: images/html-css-js.png
+    summary: "Développement et mise en ligne d’un site web responsive pour un client. Expérience concrète en conception front-end et intégration avec une base de données MySQL."
+    categories: ["others"]
