@@ -1,27 +1,3 @@
-# section information
-section:
-  name: Skills
-  id: skills
-  enable: true
-  weight: 2
-  showOnNavbar: true
-  filter: true
-
-# filter buttons
-buttons:
-  - name: All
-    filter: "all"
-  - name: Basic
-    filter: "basic"
-  - name: Language
-    filter: "language"
-  - name: BI
-    filter: "BI tools" 
-  - name: ETL
-    filter: "ETL" 
-  - name: Others
-    filter: "others"
-
 skills:
   - name: Talend
     logo: images/talend.png
@@ -45,7 +21,7 @@ skills:
     url: "https://www.splunk.com/"
 
   - name: Python
-    logo: images/Python.png
+    logo: images/python.png        # 🔁 fixed casing
     summary: "Capable to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis."
     categories: ["basic", "language"]
 
@@ -66,7 +42,7 @@ skills:
     categories: ["basic", "language"]
 
   - name: SQL
-    logo: images/sql.jpg
+    logo: images/sql.jpg           # 🔁 fixed casing
     summary: "Experienced with querying and optimizing MySQL and Oracle databases. Used in BI dashboards and data pipeline logic."
     categories: ["basic", "language"]
 
