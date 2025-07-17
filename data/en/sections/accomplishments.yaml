@@ -9,7 +9,7 @@ section:
 # Your accomplishments
 accomplishments:
   - name: "Splunk Core Certified User" 
-    timeline: "Juillet 2023"
+    timeline: "July 2023"
     organization:
       name: SPLUNK
       url: "https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-power-user.html"
@@ -17,11 +17,28 @@ accomplishments:
       A Splunk Core Certified Power User has a basic understanding of SPL searching and reporting commands and can create knowledge objects, use field aliases and calculated fields, create tags and event types, use macros, create workflow actions and data models, and normalize data with the Common Information Model in either the Splunk Enterprise or Splunk Cloud platforms. This certification demonstrates an individual's foundational competence of Splunk’s core software.
     certificateURL: "https://www.credly.com/badges/aaf4fdbf-abd1-430a-8803-2ee816a557ec/"
 
+  - name: "IBM QRadar SIEM Foundation" 
+    timeline: "July 2025"
+    organization:
+      name: IBM
+      url: "https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694"
+    courseOverview: >
+      This badge earner has demonstrated the knowledge to navigate the QRadar SIEM user interface including the dashboard, and how to investigate offenses. The individual can also investigate an offense that is triggered by events or flows by using asset profiles, rules, reports, and advanced filters.
+
   - name: "SQL Associate"
-    timeline: "Mai 2025"
+    timeline: "May 2025"
     organization: 
       name: Datacamp
       url: "https://www.datacamp.com"
     courseOverview: >
       To obtain the Associate SQL Certification, this candidate had to demonstrate that they have the knowledge, skills, and abilities to successfully use SQL for data analysis.
     certificateURL: "https://www.datacamp.com/certificate/SQA0019013896442"
+
+  - name: "GitHub Foundations"
+    timeline: "June 2025"
+    organization: 
+      name: GitHub
+      url: "https://education.github.com/experiences/foundations_certificate"
+    courseOverview: >
+      Passing the GitHub Foundations certification exam validates subject matter expertise by measuring entry-level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.
+    certificateURL: "https://www.credly.com/badges/83d54daf-85d0-443f-a6d7-028358bd2df2/public_url"
