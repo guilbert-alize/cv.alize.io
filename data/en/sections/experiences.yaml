@@ -18,13 +18,24 @@ experiences:
         start: April 2023
         end: Sept 2023
         responsibilities:
-          - Audited and optimized the Splunk pre-sales platform, resolving issues with graphs, obsolete data sources, and dashboard access.
-          - Developed custom Splunk dashboards for Oracle, Salesforce, and PFE logs, enabling daily monitoring and cross-analysis.
-          - Designed a daily volume tracking system to monitor data ingestion and detect anomalies across multiple sources.
-          - Built interactive visualizations using Splunk Pivot and SPL to deliver actionable insights for operational teams.
-          - Implemented automated monitoring workflows, including SSL certificate supervision, threshold-based alerts, and targeted email notifications.
-          - Collaborated on a SUEZ use case, tailoring dashboards and queries to address client-specific log correlation and anomaly detection challenges.
-          - Authored internal guides and documentation to streamline knowledge transfer for the pre-sales team.
+      - **Audit & Optimization** of the pre-sales Splunk demonstration platform:
+          - Identified and fixed broken graphs, outdated data, and access control issues.
+          - Structured and categorized 20+ dashboards for improved usability.
+      - **Dashboard Development** for cross-platform monitoring:
+          - Created real-time dashboards for Oracle, Salesforce, and PFE logs.
+          - Implemented daily volume tracking to detect anomalies and drop-offs.
+      - **Monitoring & Alerting Implementation**:
+          - Set up SSL certificate supervision with automated email notifications.
+          - Customized alerting workflows based on system roles and criticality.
+      - **Client Use Case Execution** (SUEZ):
+          - Built tailored dashboards for real operational challenges.
+          - Enabled log correlation across departments and data flows.
+      - **SPL Query Optimization**:
+          - Developed reusable SPL queries to support performance analysis.
+          - Used summary indexing to improve dashboard load time and scalability.
+      - **Internal Documentation & Knowledge Transfer**:
+          - Wrote detailed technical guides for maintenance and onboarding.
+          - Contributed to GitLab project documentation for dashboard lifecycle management.
 
   - company:
       name: Osteopath Amauguin Pili
