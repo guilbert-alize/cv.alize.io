@@ -18,9 +18,13 @@ experiences:
         start: April 2023
         end: Sept 2023
         responsibilities:
-          - Audited and improved a pre-sales demonstration platform by fixing faulty graphs, updating obsolete data, and resolving access issues.
-          - Created clear and operational dashboards, including daily volume monitoring for Oracle, Salesforce, and cross-analysis of PFE logs.
-          - Implemented monitoring and alerting by setting up SSL supervision with automatic alerts and targeted email notifications.
+          - Audited and optimized the Splunk pre-sales platform, resolving issues with graphs, obsolete data sources, and dashboard access.
+          - Developed custom Splunk dashboards for Oracle, Salesforce, and PFE logs, enabling daily monitoring and cross-analysis.
+          - Designed a daily volume tracking system to monitor data ingestion and detect anomalies across multiple sources.
+          - Built interactive visualizations using Splunk Pivot and SPL to deliver actionable insights for operational teams.
+          - Implemented automated monitoring workflows, including SSL certificate supervision, threshold-based alerts, and targeted email notifications.
+          - Collaborated on a SUEZ use case, tailoring dashboards and queries to address client-specific log correlation and anomaly detection challenges.
+          - Authored internal guides and documentation to streamline knowledge transfer for the pre-sales team.
 
   - company:
       name: Osteopath Amauguin Pili
