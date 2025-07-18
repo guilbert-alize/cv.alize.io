@@ -14,6 +14,8 @@ buttons:
     filter: "Professional"
   - name: Personal
     filter: "Personal"
+  - name: Academic
+    filter: "Academic"
 
 # my projects
 projects:
@@ -50,3 +52,7 @@ projects:
     summary: "Passwords generators with Python"
     tags: ["Python"]
 
+  - name: Mémoire M2
+    timeline: "Jan 2023 - Sept 2023"
+    summary: "This thesis explores how Big Data solutions like Splunk enhance data management in the utilities sector (water, gas, electricity). It introduces a maturity matrix to assess Big Data adoption."
+    tags: ["Academic"]
