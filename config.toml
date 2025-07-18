@@ -44,7 +44,7 @@ disableSearch = false
   gitBranch = "main"
 
   [params.topNavbar]
-    maxVisibleSections = 7
+    maxVisibleSections = 9
 
   [params.features]
     [params.features.darkMode]
