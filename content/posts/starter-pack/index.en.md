@@ -1,6 +1,6 @@
 ---
 title: "Génère une vidéo à partir de ton starter-pack"
-date: 2025-07-18T18:06:25+06:00
+date: 2025-07-08T08:06:25+06:00
 description: Explanation of how to create a video based on a custom AI-generated image
 menu:
   sidebar:
