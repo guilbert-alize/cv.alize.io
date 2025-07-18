@@ -18,11 +18,15 @@ experiences:
     positions:
       - designation: Stagiaire Consultante Splunk 
         start: Avril 2023
-        end: Sept 2023
+        end: Septembre 2023
         responsibilities:
-          - Audit & amélioration d’une plateforme de démonstration pré-vente (graphiques défaillants, données obsolètes, problèmes d’accès) 
-          - Création de dashboards clairs et opérationnels (volumétrie journalière Oracle, Salesforce, PFE analyse croisée de logs) 
-          - Surveillance & alerting, mise en place de la supervision SSL avec alertes automatiques et notifications par e-mail ciblés. 
+          - Réalisé un audit approfondi de la plateforme de démonstration Splunk avant-vente, corrigeant les graphiques défectueux, les sources de données obsolètes et les problèmes d'accès aux tableaux de bord.
+          - Développé et optimisé des tableaux de bord Splunk personnalisés pour des cas d'usage métier, notamment la surveillance quotidienne des logs Oracle, Salesforce et PFE (environnement financier personnel).
+          - Conçu et déployé un système de suivi quotidien des volumes pour surveiller l'ingestion de données et détecter les anomalies sur plusieurs sources.
+          - Créé des visualisations interactives à l'aide de Splunk Pivot et du langage SPL (Search Processing Language) pour fournir des insights exploitables aux équipes opérationnelles.
+          - Mis en place des workflows automatisés de surveillance et d'alerte, incluant la supervision des certificats SSL, des alertes à seuils configurables et des notifications par email ciblées.
+          - Collaboré sur un cas d'usage SUEZ, adaptant les tableaux de bord et requêtes pour répondre aux défis clients en corrélation de logs et détection d'anomalies.
+          - Rédigé des guides internes et documenté les procédures pour faciliter le transfert de connaissances au sein de l'équipe avant-vente.
 
   - company:
       name: Ostéopathe Amauguin Pili 
