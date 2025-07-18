@@ -18,24 +18,24 @@ experiences:
         start: April 2023
         end: Sept 2023
         responsibilities:
-      - **Audit & Optimization** of the pre-sales Splunk demonstration platform:
-          - Identified and fixed broken graphs, outdated data, and access control issues.
-          - Structured and categorized 20+ dashboards for improved usability.
-      - **Dashboard Development** for cross-platform monitoring:
-          - Created real-time dashboards for Oracle, Salesforce, and PFE logs.
-          - Implemented daily volume tracking to detect anomalies and drop-offs.
-      - **Monitoring & Alerting Implementation**:
-          - Set up SSL certificate supervision with automated email notifications.
-          - Customized alerting workflows based on system roles and criticality.
-      - **Client Use Case Execution**:
-          - Built tailored dashboards for real operational challenges.
-          - Enabled log correlation across departments and data flows.
-      - **SPL Query Optimization**:
-          - Developed reusable SPL queries to support performance analysis.
-          - Used summary indexing to improve dashboard load time and scalability.
-      - **Internal Documentation & Knowledge Transfer**:
-          - Wrote detailed technical guides for maintenance and onboarding.
-          - Contributed to GitLab project documentation for dashboard lifecycle management.
+      - Audit and optimization of the pre-sales Splunk demonstration platform.
+        - Identified and fixed broken graphs, outdated data, and access control issues.
+        - Structured and categorized over 20 dashboards to improve usability.
+      - Dashboard development for cross-platform monitoring.
+        - Created real-time dashboards for Oracle, Salesforce, and PFE logs.
+        - Implemented daily volume tracking to detect anomalies and drop-offs.
+      - Monitoring and alerting implementation.
+        - Set up SSL certificate supervision with automated email notifications.
+        - Customized alert workflows based on system roles and alert levels.
+      - Client use case execution.
+        - Developed tailored dashboards to address operational needs.
+        - Enabled cross-department log correlation and data visualization.
+      - SPL query optimization.
+        - Built reusable queries to support performance tracking.
+        - Used summary indexing to speed up dashboard load time.
+      - Internal documentation and handover.
+        - Wrote maintenance guides and onboarding documentation.
+        - Contributed to GitLab documentation for version control.
 
   - company:
       name: Osteopath Amauguin Pili
