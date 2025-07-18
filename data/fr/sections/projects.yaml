@@ -55,4 +55,4 @@ projects:
   - name: Mémoire
     timeline: "Jan 2023 - Sept 2023"
     summary: "Ce mémoire explore comment les solutions Big Data, notamment Splunk, peuvent améliorer la gestion des données dans le secteur des utilities (eau, gaz, électricité). Il propose une matrice de maturité pour évaluer l’intégration du Big Data dans le secteur utilities."
-    tags: ["academic","SIEM"] 
+    tags: ["Académique","SIEM"] 
