@@ -36,3 +36,9 @@ The prompt I gave Kling was short:
 🎬 Just like that, my figurine “came to life”, she is stepping out of its box.
 
 {{< video src="video_ai.mp4" >}}
+
+---
+
+✨ This little project showed me how easy and powerful it is to mix creativity and technology today. From an idea, to a character, to a moving scene. With just a few simple steps!
+
+Feel free to try your own: what would *your* starter pack look like?
