@@ -55,7 +55,7 @@ resourceLinks:
 badges:
 - type: certification
   name: SPLUNK
-  url: ""
+  url: "https://www.credly.com/badges/aaf4fdbf-abd1-430a-8803-2ee816a557ec/"
   badge: "images/splunk-badge.png"
 
 - type: certification
