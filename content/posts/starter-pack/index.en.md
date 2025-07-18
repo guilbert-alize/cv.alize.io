@@ -33,12 +33,17 @@ The prompt I gave Kling was short:
 
 > **The character is getting out of the packaging, grabs her sunglasses, and starts walking.**
 
-🎬 Just like that, my figurine “came to life”, she is stepping out of its box.  
+🎬 Just like that, my figurine “came to life”, she is stepping out of its box.
 
-{{< video src="ai_video.mp4" width="480">}}
+<div style="max-width: 480px; margin: 1rem auto;">
+  <video controls style="width: 100%; height: auto;">
+    <source src="/ai_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
 ✨ This little project showed me how easy and powerful it is to mix creativity and technology today. From an idea, to a character, to a moving scene. With just a few simple steps!
 
-Feel free to try your own : what would *your* starter pack look like?
+Feel free to try your own: what would *your* starter pack look like?
