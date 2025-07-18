@@ -35,7 +35,7 @@ The prompt I gave Kling was short:
 
 🎬 Just like that, my figurine “came to life”, she is stepping out of its box.  
 
-{{< video src="ai_video.mp4" >}}
+{{< video src="ai_video.mp4" width="480">}}
 
 ---
 
