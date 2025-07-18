@@ -27,7 +27,7 @@ experiences:
       - **Monitoring & Alerting Implementation**:
           - Set up SSL certificate supervision with automated email notifications.
           - Customized alerting workflows based on system roles and criticality.
-      - **Client Use Case Execution** (SUEZ):
+      - **Client Use Case Execution**:
           - Built tailored dashboards for real operational challenges.
           - Enabled log correlation across departments and data flows.
       - **SPL Query Optimization**:
