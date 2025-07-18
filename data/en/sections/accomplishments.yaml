@@ -21,9 +21,10 @@ accomplishments:
     timeline: "July 2025"
     organization:
       name: IBM
-      url: "https://www.credly.com/badges/f16e464a-9d48-4f64-a971-e8e13cdf16ed/public_url"
+      url: "https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694"
     courseOverview: >
       This badge earner has demonstrated the knowledge to navigate the QRadar SIEM user interface including the dashboard, and how to investigate offenses. The individual can also investigate an offense that is triggered by events or flows by using asset profiles, rules, reports, and advanced filters.
+    certificateURL: "https://www.datacamp.com/certificate/SQA0019013896442"
 
   - name: "SQL Associate"
     timeline: "May 2025"
@@ -32,7 +33,7 @@ accomplishments:
       url: "https://www.datacamp.com"
     courseOverview: >
       To obtain the Associate SQL Certification, this candidate had to demonstrate that they have the knowledge, skills, and abilities to successfully use SQL for data analysis.
-    certificateURL: "https://www.datacamp.com/certificate/SQA0019013896442"
+    certificateURL: "https://www.credly.com/badges/f16e464a-9d48-4f64-a971-e8e13cdf16ed/public_url"
 
   - name: "GitHub Foundations"
     timeline: "June 2025"
