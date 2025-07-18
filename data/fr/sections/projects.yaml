@@ -14,6 +14,8 @@ buttons:
     filter: "Professionel"
   - name: Personnel
     filter: "Personnel"
+  - name: Académique
+    filter: "Académique"
 
 # your projects
 projects:
@@ -22,7 +24,7 @@ projects:
     timeline: "Octobre 2023 à Mars 2024"
     url: "https://www.airbnb.fr/rooms/1089829153955079585"
     summary: "Mise en location saisonnière (Airbnb) : annonce, pricing, suivi client | Tableaux Excel de suivi et reporting"
-    tags: ["Projet entrepreneurial", "Developpement"]
+    tags: ["Projet entrepreneurial", "Personnel"]
 
   - name: DataCamp
     role: Developpeuse
@@ -42,11 +44,15 @@ projects:
     timeline: "Juillet 2025 - aujourd'hui"
     repo: "https://github.com/guilbert-alize/IBM-QRadar-SIEM-Foundation-Study-Notes"
     summary: "IBM QRadar SIEM Foundation Study Notes"
-    tags: ["SIEM"]
+    tags: ["SIEM", "Personnel"]
     
   - name: PassePartout
     timeline: "Juillet 2025 - aujourd'hui"
     repo: "https://github.com/guilbert-alize/PassePartout"
     summary: "Générateur de mots de passe avec Python"
-    tags: ["Python"]
+    tags: ["Python", "Personnel"]
 
+  - name: Mémoire
+    timeline: "Jan 2023 - Sept 2023"
+    summary: "Ce mémoire explore comment les solutions Big Data, notamment Splunk, peuvent améliorer la gestion des données dans le secteur des utilities (eau, gaz, électricité). Il propose une matrice de maturité pour évaluer l’intégration du Big Data dans le secteur utilities."
+    tags: ["academic","SIEM"] 
