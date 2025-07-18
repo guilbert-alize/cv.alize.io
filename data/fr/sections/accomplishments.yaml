@@ -22,8 +22,9 @@ accomplishments:
     organization:
       name: IBM
       url: "https://www.ibm.com/training/learning-path/ibm-qradar-siem-foundation-694"
-    courseOverview: >
+    courseOverview: > 
       This badge earner has demonstrated the knowledge to navigate the QRadar SIEM user interface including the dashboard, and how to investigate offenses. The individual can also investigate an offense that is triggered by events or flows by using asset profiles, rules, reports, and advanced filters.
+    certificateURL: "https://www.credly.com/badges/f16e464a-9d48-4f64-a971-e8e13cdf16ed/public_url"
 
   - name: "SQL Associate"
     timeline: "May 2025"
