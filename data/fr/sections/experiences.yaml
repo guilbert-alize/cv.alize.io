@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Pause professionnelle
+      location: Gran Canaria, Espagne
+      overview: Période de transition professionnelle dédiée à l’acquisition de compétences techniques en cybersécurité et business intelligence, ainsi qu’à des missions de conseil web pour des projets entrepreneuriaux.
+    positions:
+      - designation: Projet personnel et montée en compétences
+        start: Octobre 2023
+        end: Présent
+        responsibilities:
+          - Suivi d’une formation certifiante QRadar SIEM et réalisation de projets pratiques autour de la cybersécurité.
+          - Développement de compétences BI via des projets personnels publiés sur GitHub et des parcours interactifs sur DataCamp.
+          - Prestations de conseil web pour petites entreprises : résolution de bugs sur WordPress, migration d’environnements PHP (7.4 vers 8.3), configuration via `wp-config.php` et utilisation de WPLocal.
+          - Veille technologique régulière et auto-formation sur les outils d’analyse, de sécurité et d’automatisation.
+  - company:
       name: Orange Business
       url: "https://www.linkedin.com/company/orange-business"
       location: Grenoble, France
@@ -25,7 +38,7 @@ experiences:
           - Conçu et déployé un système de suivi quotidien des volumes pour surveiller l'ingestion de données et détecter les anomalies sur plusieurs sources.
           - Créé des visualisations interactives à l'aide de Splunk Pivot et du langage SPL (Search Processing Language) pour fournir des insights exploitables aux équipes opérationnelles.
           - Mis en place des workflows automatisés de surveillance et d'alerte, incluant la supervision des certificats SSL, des alertes à seuils configurables et des notifications par email ciblées.
-          - Collaboré sur un cas d'usage SUEZ, adaptant les tableaux de bord et requêtes pour répondre aux défis clients en corrélation de logs et détection d'anomalies.
+          - Collaboré sur un cas d'usage, adaptant les tableaux de bord et requêtes pour répondre aux défis clients en corrélation de logs et détection d'anomalies.
           - Rédigé des guides internes et documenté les procédures pour faciliter le transfert de connaissances au sein de l'équipe avant-vente.
 
   - company:
@@ -37,7 +50,8 @@ experiences:
         start: Juillet 2022
         end: Septembre 2022
         responsibilities:
-          - Création du site web (HTML/CSS/JS/MySQL)
-          - Définition du cahier des charges
-          - Création de contenu digital pour Instagram (1000 comptes atteints)
+          - Amélioré la sensibilisation à la sécurité des données en développant un site web intégré à MySQL avec accès structurés et bases d’optimisation SEO.
+          - Optimisé les processus métiers en concevant une plateforme numérique intuitive, facilitant la gestion autonome des actifs web par les parties prenantes non techniques
+          - Renforcé la traçabilité et la maintenance en documentant les flux de travail CMS et en créant des composants numériques réutilisables.
+          - Optimisé la résilience et la visibilité de la plateforme en alignant les structures front-end sur des stratégies de contenu, atteignant plus de 1 000 comptes organiquement.
 
