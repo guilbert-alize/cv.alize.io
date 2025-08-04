@@ -8,6 +8,20 @@ section:
 
 # My experiences
 experiences:
+
+  - company:
+      name: Career Break
+      location: France
+      overview: A professional transition period focused on developing technical skills in cybersecurity and business intelligence, alongside freelance web consulting for entrepreneurial projects.
+    positions:
+      - designation: Personal Projects and Skill Development
+        start: October 2023
+        end: Present
+        responsibilities:
+          - Completed certification training in QRadar SIEM and applied practical cybersecurity projects.
+          - Built business intelligence skills through personal projects shared on GitHub and interactive learning on DataCamp.
+          - Provided web consulting for small businesses: troubleshooting WordPress issues, migrating PHP environments (7.4 to 8.3), and configuring via `wp-config.php` and WPLocal.
+          - Engaged in continuous tech watch and self-learning in analytics, security, and automation tools.
   - company:
       name: Orange Business
       url: "https://www.linkedin.com/company/orange-business"
@@ -18,11 +32,9 @@ experiences:
         start: April 2023
         end: Sept 2023
         responsibilities:
-          - Audited and improved a national Splunk demo platform used in pre-sales.
-          - Built dashboards to monitor Oracle, Salesforce, and internal log data.
-          - Set up real-time alerts for SSL certificate expiration and data flows.
-          - Contributed to a production use case with log correlation tools.
-          - Wrote technical documentation and helped structure GitLab projects
+          - Strengthened internal controls by configuring automated email notifications for critical event monitoring, enhancing risk detection and incident response. 
+          - Audited an internal Splunk platform (48 dashboards, 28 applications), identifying and resolving unauthorized access issues using Excel and Linux. 
+          - Optimized system monitoring by designing operational dashboards (Oracle, Salesforce, PFE logs).
   - company:
       name: Osteopath Amauguin Pili
       url: "https://www.instagram.com/pili.osteopathie/"
@@ -32,6 +44,7 @@ experiences:
         start: July 2022
         end: September 2022
         responsibilities:
-          - Created the website using HTML, CSS, JavaScript, and MySQL.
-          - Defined the project specifications.
-          - Created digital content for Instagram, reaching 1000 accounts.
+          - Enhanced data security awareness by developing a MySQL-integrated website with structured access controls and SEO optimization foundations. 
+          - Optimized business processes by designing an intuitive digital platform, enabling non-technical stakeholders to manage web assets autonomously. 
+          - Strengthened system traceability and maintenance by documenting CMS workflows and creating reusable digital components. 
+          - Improved platform resilience and visibility by aligning front-end structures with content strategies, achieving over 1,000 organic accounts.
