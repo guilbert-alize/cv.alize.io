@@ -19,12 +19,13 @@ buttons:
 
 # my projects
 projects:
-- name: phishing email analysis
-  role: Developer
-  timeline: "June 2025 - present"
-  url: "https://github.com/guilbert-alize/phishing-email-analysis"
-  summary: "This project will involve cleaning the dataset with SQL, analyzing it with Python, and visualizing results with Power BI."
-  tags: ["Personal", "Python"]
+
+  - name: phishing email analysis
+    role: Developer
+    timeline: "June 2025 - present"
+    url: "https://github.com/guilbert-alize/phishing-email-analysis"
+    summary: "This project will involve cleaning the dataset with SQL, analyzing it with Python, and visualizing results with Power BI."
+    tags: ["Personal", "Python"]
   
   - name: Airbnb
     role: Manager
