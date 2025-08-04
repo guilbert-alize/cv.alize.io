@@ -3,18 +3,23 @@ languageCode: en-us
 title: "CV Alizé GUILBERT"
 theme: toha
 
-# Manage languages
-# For more details, see: https://gohugo.io/content-management/multilingual/
 languages:
   en:
     languageName: English
     weight: 1
+    contentDir: content/en
+    params:
+      url: /en/
   fr:
     languageName: Français
     weight: 2
+    contentDir: content/fr
+    params:
+      url: /fr/
 
-# Force a locale for development; comment out in production to let "weight" take precedence
+# Ensure all languages are in subdirectories
 defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 
 # Allow raw HTML in markdown files
 markup:
