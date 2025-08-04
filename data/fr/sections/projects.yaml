@@ -19,6 +19,14 @@ buttons:
 
 # your projects
 projects:
+
+  - name: phishing email analysis
+    role: Developpeuse
+    timeline: "Juin 2025 - present"
+    url: "https://github.com/guilbert-alize/phishing-email-analysis"
+    summary: "Ce projet consistera à nettoyer le jeu de données avec SQL, l’analyser avec Python, et visualiser les résultats avec Power BI."
+    tags: ["Personal", "Python"]
+  
   - name: Airbnb
     role: Manager
     timeline: "Octobre 2023 à Mars 2024"
