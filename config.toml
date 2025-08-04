@@ -1,36 +1,41 @@
 baseURL = "https://guilbert-alize.github.io/cv.alize.io/"
-environment = "production"
-languageCode = "fr"
+
+languageCode = en-us
 title = "CV Alizé GUILBERT"
 theme = "toha"
-defaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
-enableEmoji = true
-disableSearch = false
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: Français
+    weight: 2
+
+# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+DefaultContentLanguage: en
 
 # Allow raw html in markdown file
-[markup]
-  [markup.goldmark.renderer]
-    unsafe = true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
 
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 6
-    ordered = false
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
-    baseURL = "https://guilbert-alize.github.io/cv.alize.io/en/"
-
-  [languages.fr]
-    languageName = "Français"
-    weight = 2
-    baseURL = "https://guilbert-alize.github.io/cv.alize.io/fr/"
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+# Enable global emoji support
+enableEmoji: true
 
 [params]
   background = "/images/site/background.jpg"
