@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cv.alize.io/sitemap.xml
