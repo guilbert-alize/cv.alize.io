@@ -1,6 +1,5 @@
 baseURL = "https://guilbert-alize.github.io/cv.alize.io/"
 environment = "production"
-languageCode = en-us
 title = "CV Alizé GUILBERT"
 theme = "toha"
 defaultContentLanguage = "fr"
